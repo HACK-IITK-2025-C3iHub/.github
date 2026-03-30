@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF8C00&size=22&center=true&vCenter=true&width=600&lines=Local+LLM+for+Security;Policy+Gap+Analysis;Offline+AI+Systems;Privacy+First+AI" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff7e00,100:ffb347&height=2&section=header"/>
+</p>
+
 # 🚀 HACK-IITK-2026-C3iHub
 
 > 🔐 *Building intelligent, privacy-first Local LLM systems for Policy Gap Analysis*
