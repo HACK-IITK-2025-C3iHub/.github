@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e00,100:2c5364&height=200&section=header&text=HACK-IITK-2026-C3iHub&fontSize=35&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Local+LLM+for+Security;Policy+Gap+Analysis;Privacy+First+AI;Offline+AI+Systems" />
+</p>
+
 # 🚀 HACK-IITK-2026-C3iHub
 
 > 🔐 *Building intelligent, privacy-first Local LLM systems for Policy Gap Analysis*
