@@ -1,6 +1,23 @@
 # 🚀 HACK-IITK-2026-C3iHub
 
 > 🔐 *Building intelligent, privacy-first Local LLM systems for Policy Gap Analysis*
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Local%20LLM-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-Policy%20Analysis-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mode-Offline%20First-green?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/HACK-IITK-2026-C3iHub/Local-LLM-UI">
+    <img src="https://img.shields.io/github/stars/HACK-IITK-2025-C3iHub/Local-LLM-UI?style=social" />
+  </a>
+  <a href="https://github.com/HACK-IITK-2026-C3iHub/Local-LLM-UI/fork">
+    <img src="https://img.shields.io/github/forks/HACK-IITK-2025-C3iHub/Local-LLM-UI?style=social" />
+  </a>
+  <a href="https://github.com/HACK-IITK-2026-C3iHub/Local-LLM-UI/issues">
+    <img src="https://img.shields.io/github/issues/HACK-IITK-2025-C3iHub/Local-LLM-UI" />
+  </a>
+</p>
 
 ---
 
