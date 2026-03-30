@@ -41,7 +41,13 @@ In a world where data leaks faster than gossip ☕, we believe in **local-first 
 ## 🛠️ Key Project
 
 ### 📌 Local LLM UI  
-🔗 https://github.com/HACK-IITK-2026-C3iHub/Local-LLM-UI  
+🔗 https://github.com/HACK-IITK-2026-C3iHub/Local-LLM-UI
+<p>
+  <img src="https://img.shields.io/badge/Python-3.8+-blue" />
+  <img src="https://img.shields.io/badge/LLM-Ollama-orange" />
+  <!--<img src="https://img.shields.io/badge/Docker-Enabled-blue" />-->
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+</p>
 
 An interactive interface built for:
 - Uploading cybersecurity policies  
@@ -57,11 +63,12 @@ An interactive interface built for:
 
 ## ⚙️ Tech Stack
 
-- 🐍 **Python** (Core Development)
-- 🧠 **Local LLMs (Ollama / Gemma / etc.)**
-- 🌐 **Frontend UI (for interaction)**
-- 🐳 **Docker** (Containerization)
-- 📂 **File Processing & Security Analysis Pipelines**
+<p>
+  <img src="https://img.shields.io/badge/Python-Primary-yellow?logo=python" />
+  <img src="https://img.shields.io/badge/Ollama-LLM-black" />
+  <!--<img src="https://img.shields.io/badge/Docker-Container-blue?logo=docker" />-->
+  <img src="https://img.shields.io/badge/Frontend-UI-lightgrey" />
+</p>
 
 ---
 
