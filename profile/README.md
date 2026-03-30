@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Local+LLM+for+Security;Policy+Gap+Analysis;Privacy+First+AI;Offline+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF8C00&size=22&center=true&vCenter=true&width=600&lines=Local+LLM+for+Security;Policy+Gap+Analysis;Offline+AI+Systems;Privacy+First+AI" />
 </p>
 
 # 🚀 HACK-IITK-2026-C3iHub
