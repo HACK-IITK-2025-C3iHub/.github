@@ -22,16 +22,15 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-Command_Line-111827?style=flat-square&logo=gnubash&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Version_Control-181717?style=flat-square&logo=github&logoColor=white)
-![GUI](https://img.shields.io/badge/GUI-Web_Interface-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white)
-![PDF Engine](https://img.shields.io/badge/PDF_Engine-ReportLab-F97316?style=flat-square&logo=adobeacrobatreader&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Web_Server-000000?style=flat-square&logo=flask&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-FF6B6B?style=flat-square&logo=meta&logoColor=white)
-![GitHub Collaboration](https://img.shields.io/badge/GitHub-Collaboration-181717?style=flat-square&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Source_Control-F05032?style=flat-square&logo=git&logoColor=white)
-![Gemma](https://img.shields.io/badge/Gemma-Model_Engine-1D4ED8?style=flat-square&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Chrome](https://img.shields.io/badge/-Web-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![PDF](https://img.shields.io/badge/-PDF-FF2116?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-FF6B6B?style=for-the-badge&logo=meta&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google](https://img.shields.io/badge/-Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
