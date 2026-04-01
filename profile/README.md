@@ -22,7 +22,16 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,git,github,docker,vscode,linux&theme=dark" alt="Tech Stack Icons" />
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-Command_Line-111827?style=flat-square&logo=gnubash&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Version_Control-181717?style=flat-square&logo=github&logoColor=white)
+![GUI](https://img.shields.io/badge/GUI-Web_Interface-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white)
+![PDF Engine](https://img.shields.io/badge/PDF_Engine-ReportLab-F97316?style=flat-square&logo=adobeacrobatreader&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Web_Server-000000?style=flat-square&logo=flask&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-FF6B6B?style=flat-square&logo=meta&logoColor=white)
+![GitHub Collaboration](https://img.shields.io/badge/GitHub-Collaboration-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Source_Control-F05032?style=flat-square&logo=git&logoColor=white)
+![Gemma](https://img.shields.io/badge/Gemma-Model_Engine-1D4ED8?style=flat-square&logo=google&logoColor=white)
 
 </div>
 
@@ -76,12 +85,12 @@
 
 <div align="center">
 
-| Member       | Role              | GitHub Profile                               |
-| ------------ | ----------------- | -------------------------------------------- |
-| Aditya Yadav | Model Developer   | [Aditya](https://github.com/Im-diablo)       |
-| Amol Gupta   | Server Developer  | [Amol](https://github.com/FighterX777)       |
-| Aman Kothari | Security Tester   | [Aman](https://github.com/Drag0nSlay)        |
-| Amadeep      | Researcher        | [Amardeep](https://github.com/Amar1604)      |
+| Member       | Role             | GitHub Profile                          |
+| ------------ | ---------------- | --------------------------------------- |
+| Aditya Yadav | Model Developer  | [Aditya](https://github.com/Im-diablo)  |
+| Amol Gupta   | Server Developer | [Amol](https://github.com/FighterX777)  |
+| Aman Kothari | Security Tester  | [Aman](https://github.com/Drag0nSlay)   |
+| Amadeep      | Researcher       | [Amardeep](https://github.com/Amar1604) |
 
 </div>
 
@@ -117,7 +126,7 @@
 | --------------------------------------------------------------------- | ----------- | ----------------------------------------- |
 | [Local-LLM-UI](https://github.com/HACK-IITK-2025-C3iHub/Local-LLM-UI) | Production  | End-to-end offline policy gap analyzer    |
 | Policy Benchmark Pack                                                 | In Progress | Test policies and benchmark datasets      |
-| Framework Expansion                                                   | Planned     | Extend to ISO 27001, PCI DSS, CIS mapping |
+| Framework Expansion                                                   | Im Progress | Extend to ISO 27001, PCI DSS, CIS mapping |
 
 </div>
 
